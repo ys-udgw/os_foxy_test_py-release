@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+ros_foxy_test_py.egg-info/PKG-INFO
+ros_foxy_test_py.egg-info/SOURCES.txt
+ros_foxy_test_py.egg-info/dependency_links.txt
+ros_foxy_test_py.egg-info/entry_points.txt
+ros_foxy_test_py.egg-info/requires.txt
+ros_foxy_test_py.egg-info/top_level.txt
+ros_foxy_test_py.egg-info/zip-safe
+test_pub/test_publisher.py

@@ -1,0 +1,17 @@
+Metadata-Version: 1.2
+Name: ros-foxy-test-py
+Version: 0.0.1
+Summary: Examples of minimal publishers using rclpy.
+Home-page: UNKNOWN
+Author: hogehoge
+Author-email: hoge@example.com
+Maintainer: hogehogee
+Maintainer-email: hoge@example.com
+License: Apache License, Version 2.0
+Description: UNKNOWN
+Keywords: ROS
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
