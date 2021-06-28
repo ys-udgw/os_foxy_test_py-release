@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/udgwtest/os_foxy_test_py-release.git
 tracks:
   foxy:
     actions:
