@@ -19,7 +19,7 @@ tracks:
     last_version: 0.0.4
     name: upstream
     patches: null
-    release_inc: '15'
+    release_inc: '16'
     release_repo_url: https://github.com/udgwtest/os_foxy_test_py-release.git
     release_tag: :{version}
     ros_distro: foxy
